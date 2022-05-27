@@ -2,7 +2,7 @@
 
 BSC in Computer scince and engineering @ Adama Scince and Technology University, Adama, Ethiopia
 
-[E-mail](mailto:sudipmondal.2002@rediffmail.com) | [LinkedIn](https://www.linkedin.com/in/abinet-tassew/) | [GitHub](https://github.com/sudip-mondal-2002) | [Website](#) |
+[E-mail](mailto:abinettassewabi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abinet-tassew/) | [GitHub](https://github.com/sudip-mondal-2002) | [Website](#) |
 
 ## Skills
 
