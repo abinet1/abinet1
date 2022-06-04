@@ -1,4 +1,5 @@
-# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Abinet Tassew](https://www.linkedin.com/in/abinet-tassew/) AKA [phelix](https://www.linkedin.com/in/abinet-tassew/)
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+#I'm [Abinet Tassew](https://www.linkedin.com/in/abinet-tassew/) AKA [phelix](https://www.linkedin.com/in/abinet-tassew/)
 
 BSC in Computer scince and engineering @ Adama Scince and Technology University, Adama, Ethiopia
 
