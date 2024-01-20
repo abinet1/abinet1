@@ -12,8 +12,7 @@ BSC in Computer scince and engineering @ Adama Scince and Technology University,
 * Django
 * Game Development
 * Unity
-* Data Structures and Algorithms
-* Machine Learning.
+* Data Structures and Algorithms.
 * Programming Languages: Python, C++, C, JavaScript, Java.
 * Version Control System, Git & GitHub
 <!-- * DevOps Engineering(With Azure, Docker, Kubernates etc.) -->
